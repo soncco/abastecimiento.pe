@@ -1,0 +1,296 @@
+Actúa como un equipo senior de diseño web, UX/UI, copywriting SaaS B2G y marketing institucional, especializado en software para entidades públicas peruanas.
+
+Tu objetivo es diseñar y estructurar un sitio web informativo, profesional y orientado a conversión para GRACE, un sistema SaaS de logística, abastecimiento y planificación utilizado por cientos de entidades públicas, incluyendo municipalidades provinciales y distritales del sur del Perú.
+
+El sitio debe transmitir confianza institucional, cumplimiento normativo y madurez operativa, evitando lenguaje genérico de startups.
+
+Objetivo del sitio
+
+Posicionar a GRACE como una solución integral y normativa
+
+Explicar claramente qué problema resuelve y cómo
+
+Mostrar el flujo completo de punta a punta
+
+Incentivar la solicitud de demo
+
+Reforzar que es un SaaS listo para usar, sin instalaciones
+
+Público objetivo
+
+Alcaldes y gerentes municipales
+
+Jefes de logística, abastecimiento y almacén
+
+Oficinas de planeamiento y presupuesto
+
+Administración, control interno y gerencia
+
+Lenguaje:
+
+Formal, claro, directo
+
+Orientado a procesos, control, trazabilidad y auditoría
+
+Adaptado a la realidad del sector público peruano
+
+Evitar tecnicismos innecesarios y promesas vagas
+
+Estructura obligatoria del sitio
+1. Hero Section
+
+Título principal (orientado a beneficio):
+
+Ordena tu logística pública de principio a fin
+
+Subtítulo:
+
+GRACE es un sistema en la nube que integra planeamiento, requerimientos, compras, servicios, almacén y presupuesto en una sola plataforma, cumpliendo la normativa peruana y facilitando el control y la auditoría.
+
+CTAs:
+
+CTA primario: Solicitar demostración
+
+CTA secundario: Acceder al demo
+
+2. ¿Qué es GRACE?
+
+Presentar a GRACE como:
+
+Plataforma SaaS en la nube (no requiere instalación)
+
+Acceso desde cualquier dispositivo
+
+Menús y pantallas por rol
+
+Implementación rápida y guiada
+
+Hosting incluido
+
+Enfatizar:
+
+“No necesitas instalar nada”
+
+“La habilitación es automática”
+
+3. Cumplimiento normativo
+
+Sección destacada (muy importante):
+
+GRACE:
+
+Cumple con el Reglamento de la Ley de Contrataciones del Estado
+
+Se alinea con las directivas del CEPLAN
+
+Facilita la trazabilidad requerida para auditorías y control interno
+
+Usar lenguaje institucional, sobrio y claro.
+
+4. Problemas que resolvemos
+
+Comparativa clara:
+
+Sin GRACE
+
+Procesos dispersos
+
+Retrasos entre áreas
+
+Excel y documentos sueltos
+
+Difícil seguimiento y auditoría
+
+Con GRACE
+
+Flujo único y trazable
+
+Estados claros por proceso
+
+Información centralizada
+
+Reportes inmediatos
+
+5. Módulos del sistema
+
+Presentar cada módulo como bloque independiente:
+
+Planeamiento (planes anuales y mensuales – CEPLAN)
+
+Requerimientos
+
+Cotizaciones
+
+Compras
+
+Servicios
+
+Almacén
+
+Planificación / Presupuesto
+
+Administración
+
+Reportes
+
+Cada módulo debe responder:
+
+Qué gestiona
+
+Qué evita
+
+Qué beneficio aporta
+
+6. Flujo integrado de punta a punta
+
+Mostrar visualmente el flujo completo:
+
+Planeamiento anual y mensual
+
+Requerimientos con sustento
+
+Cotizaciones y evaluación
+
+Órdenes de compra o servicio
+
+Ingresos a almacén
+
+Salidas / PECOSA
+
+Compromisos y devengados
+
+Reportes listos para auditoría
+
+Mensaje clave:
+
+Un solo sistema, sin duplicar información, con trazabilidad total.
+
+7. Beneficios por tipo de usuario
+
+Bloques o tabs por rol:
+
+Planeamiento
+
+Logística y compras
+
+Almacén
+
+Presupuesto y contabilidad
+
+Gerencia
+
+Enfatizar:
+
+Menos reprocesos
+
+Mejor control
+
+Información en tiempo real
+
+8. Resultados y métricas
+
+Sección de impacto:
+
+Reducción significativa de tiempos en procesos
+
+Información centralizada en la nube
+
+Acceso desde cualquier dispositivo
+
+Capacitación rápida por rol
+
+Arranque operativo en corto tiempo
+
+Evitar cifras inventadas; usar mensajes cualitativos sólidos.
+
+9. Modelo de licenciamiento
+
+Presentar de forma institucional:
+
+Licencia anual por entidad
+
+SaaS con hosting incluido
+
+Soporte y mejoras continuas
+
+Consultar para más información
+
+No mostrar precios.
+
+10. Demo del sistema
+
+Sección clara y visible:
+
+URL: https://demo.abastecimiento.pe
+
+Usuario: demo
+
+Contraseña: demostración
+
+Aclarar:
+
+Entorno demostrativo para conocer el flujo general del sistema.
+
+11. Cómo empezar
+
+Proceso simple:
+
+Solicita una demostración
+
+Evaluamos tu proceso actual
+
+Habilitamos la entidad y cargamos catálogos
+
+Capacitamos por rol y acompañamos el arranque
+
+12. CTA final
+
+Bloque fuerte de conversión:
+
+Agenda una demostración
+
+Evalúa tu proceso actual
+
+Mejora control, tiempos y trazabilidad
+
+Formulario:
+
+Nombre
+
+Entidad
+
+Cargo
+
+Correo institucional
+
+Teléfono
+
+13. Footer
+
+Sitio: abastecimiento.pe
+
+Teléfonos / WhatsApp
+
+Correo de soporte
+
+Redes sociales
+
+Lineamientos visuales
+
+Estilo institucional moderno
+
+Colores:
+
+Marca: #5bb99d
+
+Fondo: #FFFFFF
+
+Títulos / acentos: #e69f3c
+
+Tipografía: Raleway
+
+Diseño limpio, sobrio y profesional
+
+Íconos simples, diagramas claros
+
+Evitar estilos infantiles o excesivamente “startup”
